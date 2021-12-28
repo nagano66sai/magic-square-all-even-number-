@@ -1,5 +1,5 @@
 REM   using  decimal  basic   download  from   http://hp.vector.co.jp/authors/VA008683/setup.htm
-PRINT   "input   all  even   number"
+PRINT   "input   all  even   numbers"
 INPUT   n
 DIM  a(n,n)
 DIM   b(n,n)
